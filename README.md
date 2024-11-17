@@ -1,11 +1,10 @@
----
+Syed Asad Ali Shah's Portfolio 🌟
 
-# Syed Asad Ali Shah's Portfolio 🌟  
-**Welcome to My Digital Space!**  
+Welcome to My Digital Space!
 
 This is my personal portfolio website, showcasing my journey as a Computer Science student, data enthusiast, and tech professional. It highlights my skills, experiences, and projects while providing a glimpse into who I am.
 
----
+
 
 ## 🚀 Features  
 - **About Me**: Learn about my background and aspirations.  
@@ -77,5 +76,3 @@ Let’s connect!
   
 
 ---
-
-Feel free to update this README as your portfolio evolves!
